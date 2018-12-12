@@ -1,0 +1,3 @@
+[submodule "fcioc"]
+	path = fcioc
+	url = https://gitlab.esss.lu.se/essb-mebt/fcioc.git

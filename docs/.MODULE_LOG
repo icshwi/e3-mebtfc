@@ -1,0 +1,20 @@
+>>
+Script is used     : e3TemplateGenerator.bash
+Script Path        : /home/ikbilbao/devspace/e3-tools/e3TemplateGenerator
+User               : ikbilbao
+Log Time           : 2018Dec12-1125-39CET
+e3 repo Hash       : 103416e
+
+>>
+>> Your sources are located in https://gitlab.esss.lu.se/essb-mebt.
+>> git submodule will be used.
+>> 
+EPICS_MODULE_NAME  : mebtfc
+E3_MODULE_SRC_PATH : fcioc
+EPICS_MODULE_URL   : https://gitlab.esss.lu.se/essb-mebt
+E3_TARGET_URL      : https://github.com/icshwi
+>> 
+e3 module name     : e3-mebtfc
+e3 module url full : https://gitlab.esss.lu.se/essb-mebt/fcioc.git
+e3 target url full : https://github.com/icshwi/e3-mebtfc
+>> 
